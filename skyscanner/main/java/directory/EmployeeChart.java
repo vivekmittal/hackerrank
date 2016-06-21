@@ -11,7 +11,7 @@ import java.util.function.Consumer;
 /**
  * @author Vivek Mittal
  */
-public class Main {
+public class EmployeeChart {
 
     public static final String DELIMITER = " ";
 
