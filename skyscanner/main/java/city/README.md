@@ -10,7 +10,6 @@ on the subsequent lines, the name of each destination searched for, one per line
 Examples:
 -------
     Input:
-    <pre>
         6
         Barcelona
         Edinburgh
@@ -18,9 +17,6 @@ Examples:
         Miami
         Miami
         Barcelona
-    </pre>
     
     Output:
-    <pre>
         Barcelona
-    </pre>
